@@ -1,0 +1,4 @@
+
+function onBtnTakeScreenshotFFiClick() {
+screenshotns.takescreenshot();
+}
